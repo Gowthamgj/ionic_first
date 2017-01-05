@@ -9,7 +9,7 @@
   You need to have npm pre install inorder to run this app.
 ###finally
   
-  Then move to your the directory named(ionic_first) using 
+  Then move to your the directory named ionic_first using 
   
   $ cd ionic_first
   
