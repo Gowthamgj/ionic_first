@@ -3,17 +3,17 @@
 
 #Running this app
 ###Installing ionic
-  
+  ```
   $ npm install -g ionic
-  
+  ```
   You need to have npm pre install inorder to run this app.
 ###finally
   
   Then move to your the directory named ionic_first using 
-  
+  ```
   $ cd ionic_first
-  
+  ```
   Then finally,
-  
+  ```
   $ ionic serve
-  
+  ```
